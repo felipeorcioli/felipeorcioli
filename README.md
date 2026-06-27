@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Orcioli 👋
 
-Sou QA em formação, apaixonado por tecnologia desde a infância e em constante aprendizado por conta própria através de cursos na Alura e Udemy.
+Sou QA em formação, apaixonado por tecnologia e em constante aprendizado por conta própria através de cursos na Alura e Udemy.
 
 Acredito que qualidade de software vai além de encontrar bugs — é sobre garantir que o produto funcione de forma confiável para quem usa.
 
