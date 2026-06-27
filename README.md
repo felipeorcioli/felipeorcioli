@@ -8,6 +8,8 @@ Acredito que qualidade de software vai além de encontrar bugs — é sobre gara
 
 ## 🛠️ Ferramentas e Tecnologias
 
+<img src="https://skillicons.dev/icons?i=playwright,postman,git,github,js,vscode" />
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
