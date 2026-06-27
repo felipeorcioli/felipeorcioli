@@ -20,9 +20,10 @@ Acredito que qualidade de software vai além de encontrar bugs — é sobre gara
 ## 📁 O que estou construindo
 
 - ✅ Testes automatizados com Playwright
-- ✅ Testes de API com Postman
-- ✅ Casos de teste e bug reports documentados
-- 📚 Estudando BDD e Gherkin na prática
+- ✅ Testes de API com Postman documentados
+- ✅ Casos de teste e bug reports formais
+- ✅ Automação de bugs reais encontrados em testes exploratórios
+- 📚 Expandindo cobertura de testes continuamente
 
 ---
 
